@@ -1,729 +1,730 @@
 m=[
     {
-		"id":"1",
-		"name":"Tap",
-		"info":"El o la tap és la persona que es col·loca en els forats que queden entre les rengles de pinya, especialment a banda i banda de les rengles de mans. Ha d’entrar de costat mirant a la rengla de mans, ocupant l’espai i donant una mica de pressió (però sense desplaçar les rengles!). La seva funció és omplir forats a la pinya; així consoliden el matalàs que aquesta representa i eviten que les rengles de mans, laterals... es desplacin involuntàriament i desquadrin el castell.<br>Els o les taps acostumen a ser persones baixetes i petites, amb certa capacitat de sacrifici",
-		"wikipedia":"https://ca.wikipedia.org/wiki/2_de_7",
-		"size":40,
-		"image":"31--Cstllscp_Fsc_tap_Maria.png",
-		"video":"tronc_12.mp4",
-		"youtube":"https://www.youtube.com/embed/lsw25ckVo4c",
-		"position":{
-			"rotation_y":"1.33333",
-			"rotation_x":"0",
-			"axis_x":"29.99997477",
-			"axis_y":"25",
-			"axis_z":"-51.96153879"
-		}
-	},
+    "id":"1",
+    "name":"Tap",
+    "info":"El o la tap és la persona que es col·loca en els forats que queden entre les rengles de pinya, especialment a banda i banda de les rengles de mans. Ha d’entrar de costat mirant a la rengla de mans, ocupant l’espai i donant una mica de pressió (però sense desplaçar les rengles!). La seva funció és omplir forats a la pinya; així consoliden el matalàs que aquesta representa i eviten que les rengles de mans, laterals... es desplacin involuntàriament i desquadrin el castell.<br>Els o les taps acostumen a ser persones baixetes i petites, amb certa capacitat de sacrifici",
+    "wikipedia":"https://ca.wikipedia.org/wiki/2_de_7",
+    "size":40,
+    "image":"31--Cstllscp_Fsc_tap_Maria.png",
+    "video":"tronc_12.mp4",
+    "youtube":"https://www.youtube.com/embed/lsw25ckVo4c",
+    "position":{
+      "rotation_y":"1.33333",
+      "rotation_x":"0",
+      "axis_x":"30",
+      "axis_y":"25",
+      "axis_z":"-51.962"
+    }
+  },
     {
-		"id":"2",
-		"name":"Contrafort aixecador",
-		"info":"El o la contrafort aixecador és un cas especial de contrafort que es necessita en els castells aixecats per sota, bàsicament pilars i tresos. En aquests castells, en els quals la pinya aixeca el tronc, el o la contrafort esdevé una peça clau. Hi ha dos tipus d’aixecades, que es repeteixen per cada pis del castell. En la primera, el o la contrafort aixeca el membre de tronc de la seva rengla posant el cap a sota el seu cul i, tot aixecant-se, ajuda a posar-lo sobre el pis de sota, que es troba agenollat al davant. En la segona, abraça el pis agenollat (que té el castell a sobre) i el posa dempeus evitant que s'obri enrere o s'ensorri.",
-		"wikipedia":"https://ca.wikipedia.org/wiki/3_de_7_aixecat_per_sota",
-		"size":40,
-		"image":"18--Cstllscp_Fsc_cap_de_colla_Kiki.png",
-		"video":"tronc_13.mp4",
-		"youtube":"https://www.youtube.com/embed/klddnSQ372Q",
-		"position":{
-			"rotation_y":"0.666667",
-			"rotation_x":"0",
-			"axis_x":"46.65067982",
-			"axis_y":"25",
-			"axis_z":"-26.93375235"
-		}
-	},
+    "id":"2",
+    "name":"Contrafort aixecador",
+    "info":"El o la contrafort aixecador és un cas especial de contrafort que es necessita en els castells aixecats per sota, bàsicament pilars i tresos. En aquests castells, en els quals la pinya aixeca el tronc, el o la contrafort esdevé una peça clau. Hi ha dos tipus d’aixecades, que es repeteixen per cada pis del castell. En la primera, el o la contrafort aixeca el membre de tronc de la seva rengla posant el cap a sota el seu cul i, tot aixecant-se, ajuda a posar-lo sobre el pis de sota, que es troba agenollat al davant. En la segona, abraça el pis agenollat (que té el castell a sobre) i el posa dempeus evitant que s'obri enrere o s'ensorri.",
+    "wikipedia":"https://ca.wikipedia.org/wiki/3_de_7_aixecat_per_sota",
+    "size":40,
+    "image":"18--Cstllscp_Fsc_cap_de_colla_Kiki.png",
+    "video":"tronc_13.mp4",
+    "youtube":"https://www.youtube.com/embed/klddnSQ372Q",
+    "position":{
+      "rotation_y":"0.666667",
+      "rotation_x":"0",
+      "axis_x":"46.65067982",
+      "axis_y":"25",
+      "axis_z":"-26.93375235"
+    }
+  },
     {
-		"id":"3",
-		"name":"Baix o baixa",
-		"info":"El baix o la baixa és la persona que dins la pinya aguanta el pes del tronc. Així, té els peus del segon o la segona a les seves espatlles, i té tot de persones de la pinya que l’ajuden a suportar el pes i no enfonsar-se. Sobretot el que es coneix com al seu nucli: agulla, contrafort, crosses i primeres mans. <br>El baix o la baixa acostuma a ser una persona baixeta (per fer el pis de segons més accessible a la pinya) i robusta.",
-		"wikipedia":"https://ca.wikipedia.org/wiki/3_de_7",
-		"size":40,
-		"image":"25--Cstllscp_Fsc_baix_Toni.png",
-		"video":"tronc_13.mp4",
-		"youtube":"https://www.youtube.com/embed/KEGiQSOwjv8",
-		"position":{
-			"rotation_y":"0.666667",
-			"rotation_x":"0",
-			"axis_x":"25.98076064",
-			"axis_y":"25",
-			"axis_z":"-15.00000255"
-		}
-	},
+    "id":"3",
+    "name":"Baix o baixa",
+    "info":"El baix o la baixa és la persona que dins la pinya aguanta el pes del tronc. Així, té els peus del segon o la segona a les seves espatlles, i té tot de persones de la pinya que l’ajuden a suportar el pes i no enfonsar-se. Sobretot el que es coneix com al seu nucli: agulla, contrafort, crosses i primeres mans. <br>El baix o la baixa acostuma a ser una persona baixeta (per fer el pis de segons més accessible a la pinya) i robusta.",
+    "wikipedia":"https://ca.wikipedia.org/wiki/3_de_7",
+    "size":40,
+    "image":"25--Cstllscp_Fsc_baix_Toni.png",
+    "video":"tronc_13.mp4",
+    "youtube":"https://www.youtube.com/embed/KEGiQSOwjv8",
+    "position":{
+      "rotation_y":"0.666667",
+      "rotation_x":"0",
+      "axis_x":"25.98076064",
+      "axis_y":"25",
+      "axis_z":"-15.00000255"
+    }
+  },
     {
-		"id":"4",
-		"name":"Crossa",
-		"info":"La crossa (sempre en femení) és la posició més sacrificada. Treballant en parella, les crosses es col·loquen lateralment al baix o baixa, amb les cames una mica flexionades, i posen el coll a la seva aixella. Fan servir tota la musculatura de l’esquena (per això cal col·locar-la ben recta) per evitar que el baix o la baixa s’enfonsi. Els caps de les crosses queden, per tant, entre agulla i baix i mirant cap avall, amb poc aire i gens de llum. Com les crosses són les persones que més poden ajudar a que el castell no s’enfonsi per baix, el lateral que tenen darrera ha de posar una cama entre les de la crossa per falcar-la i evitar que aquesta tampoc s’enfonsi.<br>Les crosses acostumen a ser dones baixes, fortes, sofertes i amb una gran capacitat de sacrifici a favor del col·lectiu. ",
-		"wikipedia":"https://ca.wikipedia.org/wiki/3_de_6",
-		"size":40,
-		"image":"32--Cstllsc_Fsc_crossa_Pili.png",
-		"video":"tronc_13.mp4",
-		"youtube":"https://www.youtube.com/embed/Y8KAKIveCcQ",
-		"position":{
-			"rotation_y":"0.666667",
-			"rotation_x":"0",
-			"axis_x":"29.99997477",
-			"axis_y":"25",
-			"axis_z":"51.96153879"
-		}
-	},
+    "id":"4",
+    "name":"Crossa",
+    "info":"La crossa (sempre en femení) és la posició més sacrificada. Treballant en parella, les crosses es col·loquen lateralment al baix o baixa, amb les cames una mica flexionades, i posen el coll a la seva aixella. Fan servir tota la musculatura de l’esquena (per això cal col·locar-la ben recta) per evitar que el baix o la baixa s’enfonsi. Els caps de les crosses queden, per tant, entre agulla i baix i mirant cap avall, amb poc aire i gens de llum. Com les crosses són les persones que més poden ajudar a que el castell no s’enfonsi per baix, el lateral que tenen darrera ha de posar una cama entre les de la crossa per falcar-la i evitar que aquesta tampoc s’enfonsi.<br>Les crosses acostumen a ser dones baixes, fortes, sofertes i amb una gran capacitat de sacrifici a favor del col·lectiu. ",
+    "wikipedia":"https://ca.wikipedia.org/wiki/3_de_6",
+    "size":40,
+    "image":"32--Cstllsc_Fsc_crossa_Pili.png",
+    "video":"tronc_13.mp4",
+    "youtube":"https://www.youtube.com/embed/Y8KAKIveCcQ",
+    "position":{
+      "rotation_y":"0.666667",
+      "rotation_x":"0",
+      "axis_x":"30",
+      "axis_y":"25",
+      "axis_z":"51.962"
+    }
+  },
     {
-		"id":"5",
-		"name":"Agulla",
-		"info":"L’agulla és l’única posició que es troba dins la pinya mirant cap a fora. Encarada amb el o la baix, l’agulla té una doble funció. En primer lloc, agafa els genolls del segon o la segona amb els braços creuats, evitant que es dobleguin endavant. En segon lloc, degut a la visibilitat que té del tronc i de la pinya, fa la funció de repetidor d’instruccions i peticions entre aquestes dues parts, en especial per assegurar el bon encaix de baix i segon. “Que em donin més pit”, “Que carregui esquerra”, “Que el baix pugi l’espatlla dreta”.. són instruccions habituals que l’agulla s’encarrega de repetir a la persona a qui van dirigides. També retransmet el castell per a la pinya de la seva rengla.<br>L’agulla sol ser una persona més aviat prima, més alta que el baix o la baixa, i amb certa experiència en el fet casteller.",
-		"wikipedia":"https://ca.wikipedia.org/wiki/4_de_7",
-		"size":40,
-		"image":"14--Cstllscp_Fsc_agulla_Adrià.png",
-		"video":"tronc_13.mp4",
-		"youtube":"https://www.youtube.com/embed/VcPXI4Id3Q0",
-		"position":{
-			"rotation_y":"1.666667",
-			"rotation_x":"0",
-			"axis_x":"12.99038032",
-			"axis_y":"25",
-			"axis_z":"-7.500001274"
-		}
-	},
-	{
-		"id":"6",
-		"name":"Agulla de l'agulla",
-		"info":"En els castells que porten un pilar al mig (castells amb agulla o castells amb pilar al mig), la persona que aguanta els genolls del segon o la segona d’aquest pilar és l’agulla del pilar o agulla de l’agulla (atenció paraula polisèmica). Així, també hi ha laterals i primeres de l’agulla o del pilar. Les persones que entren dins d’un castell per fer de pinya del pilar que hi va al mig han d’aguantar elles soles el pilar mentre el castell que l’envolta no es comença a desmuntar. A més, el castell no es considera carregat fins que el pilar no queda lliure, de manera que poques persones han de treballar intensament perquè l’èxit del castell exterior no quedi en no res.<br>L’agulla de l’agulla o del pilar sol ser una persona alta, prima i amb bastanta força de braços. I amb coneixement casteller com per coordinar les mans del pilar i transmetre instruccions entre aquestes i el tronc del pilar.",
-		"wikipedia":"https://ca.wikipedia.org/wiki/4_de_7_amb_l%27agulla",
-		"size":40,
-		"image":"34--Cstllscp_Fsc_agulla_Jaume.png",
-		"video":"tronc_13.mp4",
-		"youtube":"https://www.youtube.com/embed/VcPXI4Id3Q0",
-		"position":{
-			"rotation_y":"2.33333",
-			"rotation_x":"0",
-			"axis_x":"-12.99038032",
-			"axis_y":"25",
-			"axis_z":"-7.500001274"
-		}
-	},
+    "id":"5",
+    "name":"Agulla",
+    "info":"L’agulla és l’única posició que es troba dins la pinya mirant cap a fora. Encarada amb el o la baix, l’agulla té una doble funció. En primer lloc, agafa els genolls del segon o la segona amb els braços creuats, evitant que es dobleguin endavant. En segon lloc, degut a la visibilitat que té del tronc i de la pinya, fa la funció de repetidor d’instruccions i peticions entre aquestes dues parts, en especial per assegurar el bon encaix de baix i segon. “Que em donin més pit”, “Que carregui esquerra”, “Que el baix pugi l’espatlla dreta”.. són instruccions habituals que l’agulla s’encarrega de repetir a la persona a qui van dirigides. També retransmet el castell per a la pinya de la seva rengla.<br>L’agulla sol ser una persona més aviat prima, més alta que el baix o la baixa, i amb certa experiència en el fet casteller.",
+    "wikipedia":"https://ca.wikipedia.org/wiki/4_de_7",
+    "size":40,
+    "image":"14--Cstllscp_Fsc_agulla_Adrià.png",
+    "video":"tronc_13.mp4",
+    "youtube":"https://www.youtube.com/embed/VcPXI4Id3Q0",
+    "position":{
+      "rotation_y":"1.666667",
+      "rotation_x":"0",
+      "axis_x":"12.99038032",
+      "axis_y":"25",
+      "axis_z":"-7.500001274"
+    }
+  },
+  {
+    "id":"6",
+    "name":"Agulla de l'agulla",
+    "info":"En els castells que porten un pilar al mig (castells amb agulla o castells amb pilar al mig), la persona que aguanta els genolls del segon o la segona d’aquest pilar és l’agulla del pilar o agulla de l’agulla (atenció paraula polisèmica). Així, també hi ha laterals i primeres de l’agulla o del pilar. Les persones que entren dins d’un castell per fer de pinya del pilar que hi va al mig han d’aguantar elles soles el pilar mentre el castell que l’envolta no es comença a desmuntar. A més, el castell no es considera carregat fins que el pilar no queda lliure, de manera que poques persones han de treballar intensament perquè l’èxit del castell exterior no quedi en no res.<br>L’agulla de l’agulla o del pilar sol ser una persona alta, prima i amb bastanta força de braços. I amb coneixement casteller com per coordinar les mans del pilar i transmetre instruccions entre aquestes i el tronc del pilar.",
+    "wikipedia":"https://ca.wikipedia.org/wiki/4_de_7_amb_l%27agulla",
+    "size":40,
+    "image":"34--Cstllscp_Fsc_agulla_Jaume.png",
+    "video":"tronc_13.mp4",
+    "youtube":"https://www.youtube.com/embed/VcPXI4Id3Q0",
+    "position":{
+      "rotation_y":"2.33333",
+      "rotation_x":"0",
+      "axis_x":"-12.99038032",
+      "axis_y":"25",
+      "axis_z":"-7.500001274"
+    }
+  },
     {
-		"id":"7",
-		"name":"Crossa",
-		"info":"La crossa (sempre en femení) és la posició més sacrificada. Treballant en parella, les crosses es col·loquen lateralment al baix o baixa, amb les cames una mica flexionades, i posen el coll a la seva aixella. Fan servir tota la musculatura de l’esquena (per això cal col·locar-la ben recta) per evitar que el baix o la baixa s’enfonsi. Els caps de les crosses queden, per tant, entre agulla i baix i mirant cap avall, amb poc aire i gens de llum. Com les crosses són les persones que més poden ajudar a que el castell no s’enfonsi per baix, el lateral que tenen darrera ha de posar una cama entre les de la crossa per falcar-la i evitar que aquesta tampoc s’enfonsi.<br>Les crosses acostumen a ser dones baixes, fortes, sofertes i amb una gran capacitat de sacrifici a favor del col·lectiu.",
-		"wikipedia":"https://ca.wikipedia.org/wiki/4_de_8",
-		"size":40,
-		"image":"22--Cstllscp_Fsc_crossa_Juana.png",
-		"video":"tronc_12.mp4",
-		"youtube":"https://www.youtube.com/embed/KJfnAtHSD3E",
-		"position":{
-			"rotation_y":"0",
-			"rotation_x":"0",
-			"axis_x":"59.97392787",
-			"axis_y":"25",
-			"axis_z":"1.768608418"
-		}
-	},
+    "id":"7",
+    "name":"Crossa",
+    "info":"La crossa (sempre en femení) és la posició més sacrificada. Treballant en parella, les crosses es col·loquen lateralment al baix o baixa, amb les cames una mica flexionades, i posen el coll a la seva aixella. Fan servir tota la musculatura de l’esquena (per això cal col·locar-la ben recta) per evitar que el baix o la baixa s’enfonsi. Els caps de les crosses queden, per tant, entre agulla i baix i mirant cap avall, amb poc aire i gens de llum. Com les crosses són les persones que més poden ajudar a que el castell no s’enfonsi per baix, el lateral que tenen darrera ha de posar una cama entre les de la crossa per falcar-la i evitar que aquesta tampoc s’enfonsi.<br>Les crosses acostumen a ser dones baixes, fortes, sofertes i amb una gran capacitat de sacrifici a favor del col·lectiu.",
+    "wikipedia":"https://ca.wikipedia.org/wiki/4_de_8",
+    "size":40,
+    "image":"22--Cstllscp_Fsc_crossa_Juana.png",
+    "video":"tronc_12.mp4",
+    "youtube":"https://www.youtube.com/embed/KJfnAtHSD3E",
+    "position":{
+      "rotation_y":"0",
+      "rotation_x":"0",
+      "axis_x":"60",
+      "axis_y":"25",
+      "axis_z":"0"
+    }
+  },
     {
-		"id":"8",
-		"name":"Baix o baixa",
-		"info":"El baix o la baixa és la persona que dins la pinya aguanta el pes del tronc. Així, té els peus del segon o la segona a les seves espatlles, i té tot de persones de la pinya que l’ajuden a suportar el pes i no enfonsar-se. Sobretot el que es coneix com al seu nucli: agulla, contrafort, crosses i primeres mans. <br>El baix o la baixa acostuma a ser una persona baixeta (per fer el pis de segons més accessible a la pinya) i robusta.",
-		"wikipedia":"https://ca.wikipedia.org/wiki/4_de_7",
-		"size":40,
-		"image":"15--Cstllscp_Fsc_baix_Iburo.png",
-		"video":"tronc_12.mp4",
-		"youtube":"https://www.youtube.com/embed/nOGRubKCT_o",
-		"position":{
-			"rotation_y":"0",
-			"rotation_x":"0",
-			"axis_x":"0",
-			"axis_y":"25",
-			"axis_z":"30"
-		}
-	},
+    "id":"8",
+    "name":"Baix o baixa",
+    "info":"El baix o la baixa és la persona que dins la pinya aguanta el pes del tronc. Així, té els peus del segon o la segona a les seves espatlles, i té tot de persones de la pinya que l’ajuden a suportar el pes i no enfonsar-se. Sobretot el que es coneix com al seu nucli: agulla, contrafort, crosses i primeres mans. <br>El baix o la baixa acostuma a ser una persona baixeta (per fer el pis de segons més accessible a la pinya) i robusta.",
+    "wikipedia":"https://ca.wikipedia.org/wiki/4_de_7",
+    "size":40,
+    "image":"15--Cstllscp_Fsc_baix_Iburo.png",
+    "video":"tronc_12.mp4",
+    "youtube":"https://www.youtube.com/embed/nOGRubKCT_o",
+    "position":{
+      "rotation_y":"0",
+      "rotation_x":"0",
+      "axis_x":"0",
+      "axis_y":"25",
+      "axis_z":"30"
+    }
+  },
     {
-		"id":"9",
-		"name":"Contrafort",
-		"info":"El o la contrafort és la persona que des del darrera apuntala el baix o la baixa (li dóna pit) i l’ajuda a que no s’enfonsi. Això ho aconsegueix abraçant el baix per sota les aixelles o agafant les crosses per sota la faixa. En tots els casos fa força cap amunt. El cas del contrafort aixecador mereix una atenció especial, que podeu veure en l’altra mirada de contrafort disponible.<br>El o la contrafort sol ser una persona robusta una mica més alta que el baix o la baixa",
-		"wikipedia":"https://ca.wikipedia.org/wiki/2_de_7",
-		"size":40,
-		"image":"16--Cstllscp_Fsc_contrafort_Manel.png",
-		"video":"tronc_13.mp4",
-		"youtube":"https://www.youtube.com/embed/MEkodXxx9rA",
-		"position":{
-			"rotation_y":"0",
-			"rotation_x":"0",
-			"axis_x":"0",
-			"axis_y":"25",
-			"axis_z":"53.86755"
-		}
-	},
+    "id":"9",
+    "name":"Contrafort",
+    "info":"El o la contrafort és la persona que des del darrera apuntala el baix o la baixa (li dóna pit) i l’ajuda a que no s’enfonsi. Això ho aconsegueix abraçant el baix per sota les aixelles o agafant les crosses per sota la faixa. En tots els casos fa força cap amunt. El cas del contrafort aixecador mereix una atenció especial, que podeu veure en l’altra mirada de contrafort disponible.<br>El o la contrafort sol ser una persona robusta una mica més alta que el baix o la baixa",
+    "wikipedia":"https://ca.wikipedia.org/wiki/2_de_7",
+    "size":40,
+    "image":"16--Cstllscp_Fsc_contrafort_Manel.png",
+    "video":"tronc_13.mp4",
+    "youtube":"https://www.youtube.com/embed/MEkodXxx9rA",
+    "position":{
+      "rotation_y":"0",
+      "rotation_x":"0",
+      "axis_x":"0",
+      "axis_y":"25",
+      "axis_z":"53.86755"
+    }
+  },
     {
-		"id":"10",
-		"name":"Crossa",
-		"info":"La crossa (sempre en femení) és la posició més sacrificada. Treballant en parella, les crosses es col·loquen lateralment al baix o baixa, amb les cames una mica flexionades, i posen el coll a la seva aixella. Fan servir tota la musculatura de l’esquena (per això cal col·locar-la ben recta) per evitar que el baix o la baixa s’enfonsi. Els caps de les crosses queden, per tant, entre agulla i baix i mirant cap avall, amb poc aire i gens de llum. Com les crosses són les persones que més poden ajudar a que el castell no s’enfonsi per baix, el lateral que tenen darrera ha de posar una cama entre les de la crossa per falcar-la i evitar que aquesta tampoc s’enfonsi.<br>Les crosses acostumen a ser dones baixes, fortes, sofertes i amb una gran capacitat de sacrifici a favor del col·lectiu.",
-		"wikipedia":"https://ca.wikipedia.org/wiki/4_de_7",
-		"size":40,
-		"image":"21--Cstllscp_Fsc_crossa_Anna_Punki.png",
-		"video":"tronc_13.mp4",
-		"youtube":"https://www.youtube.com/embed/j4vDz1D_SOo",
-		"position":{
-			"rotation_y":"1.33333",
-			"rotation_x":"0",
-			"axis_x":"-29.99997477",
-			"axis_y":"25",
-			"axis_z":"51.96153879"
-		}
-	},
+    "id":"10",
+    "name":"Crossa",
+    "info":"La crossa (sempre en femení) és la posició més sacrificada. Treballant en parella, les crosses es col·loquen lateralment al baix o baixa, amb les cames una mica flexionades, i posen el coll a la seva aixella. Fan servir tota la musculatura de l’esquena (per això cal col·locar-la ben recta) per evitar que el baix o la baixa s’enfonsi. Els caps de les crosses queden, per tant, entre agulla i baix i mirant cap avall, amb poc aire i gens de llum. Com les crosses són les persones que més poden ajudar a que el castell no s’enfonsi per baix, el lateral que tenen darrera ha de posar una cama entre les de la crossa per falcar-la i evitar que aquesta tampoc s’enfonsi.<br>Les crosses acostumen a ser dones baixes, fortes, sofertes i amb una gran capacitat de sacrifici a favor del col·lectiu.",
+    "wikipedia":"https://ca.wikipedia.org/wiki/4_de_7",
+    "size":40,
+    "image":"21--Cstllscp_Fsc_crossa_Anna_Punki.png",
+    "video":"tronc_13.mp4",
+    "youtube":"https://www.youtube.com/embed/j4vDz1D_SOo",
+    "position":{
+      "rotation_y":"1.33333",
+      "rotation_x":"0",
+      "axis_x":"-30",
+      "axis_y":"25",
+      "axis_z":"51.962"
+    }
+  },
     {
-		"id":"11",
-		"name":"Agulla",
-		"info":"L’agulla és l’única posició que es troba dins la pinya mirant cap a fora. Encarada amb el o la baix, l’agulla té una doble funció. En primer lloc, agafa els genolls del segon o la segona amb els braços creuats, evitant que es dobleguin endavant. En segon lloc, degut a la visibilitat que té del tronc i de la pinya, fa la funció de repetidor d’instruccions i peticions entre aquestes dues parts, en especial per assegurar el bon encaix de baix i segon. “Que em donin més pit”, “Que carregui esquerra”, “Que el baix pugi l’espatlla dreta”.. són instruccions habituals que l’agulla s’encarrega de repetir a la persona a qui van dirigides. També retransmet el castell per a la pinya de la seva rengla.<br>L’agulla sol ser una persona més aviat prima, més alta que el baix o la baixa, i amb certa experiència en el fet casteller.",
-		"wikipedia":"https://ca.wikipedia.org/wiki/5_de_7",
-		"size":40,
-		"image":"24--Cstllscp_Fsc_agulla_Sílvia.png",
-		"video":"tronc_12.mp4",
-		"youtube":"https://www.youtube.com/embed/JCersvoiJx4",
-		"position":{
-			"rotation_y":"1",
-			"rotation_x":"0",
-			"axis_x":"0",
-			"axis_y":"25",
-			"axis_z":"14.4338"
-		}
-	},
+    "id":"11",
+    "name":"Agulla",
+    "info":"L’agulla és l’única posició que es troba dins la pinya mirant cap a fora. Encarada amb el o la baix, l’agulla té una doble funció. En primer lloc, agafa els genolls del segon o la segona amb els braços creuats, evitant que es dobleguin endavant. En segon lloc, degut a la visibilitat que té del tronc i de la pinya, fa la funció de repetidor d’instruccions i peticions entre aquestes dues parts, en especial per assegurar el bon encaix de baix i segon. “Que em donin més pit”, “Que carregui esquerra”, “Que el baix pugi l’espatlla dreta”.. són instruccions habituals que l’agulla s’encarrega de repetir a la persona a qui van dirigides. També retransmet el castell per a la pinya de la seva rengla.<br>L’agulla sol ser una persona més aviat prima, més alta que el baix o la baixa, i amb certa experiència en el fet casteller.",
+    "wikipedia":"https://ca.wikipedia.org/wiki/5_de_7",
+    "size":40,
+    "image":"24--Cstllscp_Fsc_agulla_Sílvia.png",
+    "video":"tronc_12.mp4",
+    "youtube":"https://www.youtube.com/embed/JCersvoiJx4",
+    "position":{
+      "rotation_y":"1",
+      "rotation_x":"0",
+      "axis_x":"0",
+      "axis_y":"25",
+      "axis_z":"14.4338"
+    }
+  },
     {
-		"id":"12",
-		"name":"Vent",
-		"info":"El vent és la persona que darrere i entre els laterals (un de cada rengla) agafa cama dels segons o les segones de dues rengles diferents (excepte en els pilars) i evita que s’ajuntin (controlant-te el moviment lateral). És l’única posició que treballa per dues rengles alhora. En els castells amb agulla o pilar al mig, els vents acostumen a deixar el tronc i agafar el pilar (que fins al moment s’aguanta amb poques mans) un cop els dosos ja baixen del castell.<br>Els vents acostumen a ser homes (per un tema d'alçada), els més alts de la pinya i de la colla, ja que des de darrere dels laterals han de poder arribar igualment a les cames dels segons amb solvència.",
-		"wikipedia":"https://ca.wikipedia.org/wiki/2_de_7",
-		"size":40,
-		"image":"33--Castllscp_Fsc_vent_Ángel.png",
-		"video":"tronc_13.mp4",
-		"youtube":"https://www.youtube.com/embed/_BYsUIFQXmk",
-		"position":{
-			"rotation_y":"1.66667",
-			"rotation_x":"0",
-			"axis_x":"-80.8013",
-			"axis_y":"25",
-			"axis_z":"46.6506"
-		}
-	},
+    "id":"12",
+    "name":"Vent",
+    "info":"El vent és la persona que darrere i entre els laterals (un de cada rengla) agafa cama dels segons o les segones de dues rengles diferents (excepte en els pilars) i evita que s’ajuntin (controlant-te el moviment lateral). És l’única posició que treballa per dues rengles alhora. En els castells amb agulla o pilar al mig, els vents acostumen a deixar el tronc i agafar el pilar (que fins al moment s’aguanta amb poques mans) un cop els dosos ja baixen del castell.<br>Els vents acostumen a ser homes (per un tema d'alçada), els més alts de la pinya i de la colla, ja que des de darrere dels laterals han de poder arribar igualment a les cames dels segons amb solvència.",
+    "wikipedia":"https://ca.wikipedia.org/wiki/2_de_7",
+    "size":40,
+    "image":"33--Castllscp_Fsc_vent_Ángel.png",
+    "video":"tronc_13.mp4",
+    "youtube":"https://www.youtube.com/embed/_BYsUIFQXmk",
+    "position":{
+      "rotation_y":"1.66667",
+      "rotation_x":"0",
+      "axis_x":"-80.8013",
+      "axis_y":"25",
+      "axis_z":"46.6506"
+    }
+  },
     {
-		"id":"13",
-		"name":"Lateral agulla",
-		"info":"El o la lateral-agulla és la persona que fa de lateral en un castell (o part del castell) sense agulles. Així, un dels braços del o la lateral agafa la cama (mai darrere el genoll) del segon o la segona (funció de lateral), i amb l'altra l'agafa per sota del genoll (funció d’agulla).<br>Els castells amb agulla o pilar al mig no porten agulles de pinya, de manera que requereixen laterals-agulla. També calen laterals-agulla en una banda dels dosos o torres (perquè a dins la pinya només hi cap una agulla, de manera que un segon no té agulla que li aguanti els genolls), i en la part del dos dels cincs (perquè enlloc d’agulla a dins hi ha el primeres mans de la rengla del tres).<br>Els i les laterals solen ser persones d’estatura mitjana de braços forts i amb certa experiència castellera, ja que també han de fer les diverses funcions de les agulles.",
-		"wikipedia":"https://ca.wikipedia.org/wiki/2_de_7",
-		"size":40,
-		"image":"29--Cstllscp_Fsc_lateral_agulla_Jordi.png",
-		"video":"tronc_13.mp4",
-		"youtube":"https://www.youtube.com/embed/X_MQsW6wPUE",
-		"position":{
-			"rotation_y":"1.83333",
-			"rotation_x":"0",
-			"axis_x":"-46.6506",
-			"axis_y":"25",
-			"axis_z":"80.8013"
-		}
-	},
+    "id":"13",
+    "name":"Lateral agulla",
+    "info":"El o la lateral-agulla és la persona que fa de lateral en un castell (o part del castell) sense agulles. Així, un dels braços del o la lateral agafa la cama (mai darrere el genoll) del segon o la segona (funció de lateral), i amb l'altra l'agafa per sota del genoll (funció d’agulla).<br>Els castells amb agulla o pilar al mig no porten agulles de pinya, de manera que requereixen laterals-agulla. També calen laterals-agulla en una banda dels dosos o torres (perquè a dins la pinya només hi cap una agulla, de manera que un segon no té agulla que li aguanti els genolls), i en la part del dos dels cincs (perquè enlloc d’agulla a dins hi ha el primeres mans de la rengla del tres).<br>Els i les laterals solen ser persones d’estatura mitjana de braços forts i amb certa experiència castellera, ja que també han de fer les diverses funcions de les agulles.",
+    "wikipedia":"https://ca.wikipedia.org/wiki/2_de_7",
+    "size":40,
+    "image":"29--Cstllscp_Fsc_lateral_agulla_Jordi.png",
+    "video":"tronc_13.mp4",
+    "youtube":"https://www.youtube.com/embed/X_MQsW6wPUE",
+    "position":{
+      "rotation_y":"1.83333",
+      "rotation_x":"0",
+      "axis_x":"-46.6506",
+      "axis_y":"25",
+      "axis_z":"80.8013"
+    }
+  },
     {
-		"id":"14",
-		"name":"Primeres mans",
-		"info":"El o la primeres mans és la persona que es col·loca darrere del contrafort i agafa el cul del segon o la segona. Excepte en els pilars, en què es diferencia entre primeres per davant i primeres per darrere, i el per davant agafa els engonals del segon o la segona. La missió del primeres mans és ajudar el segon a suportar el pes tot evitant que no s’assegui massa.<br>Els o les primeres mans són les persones de la colla més altes després dels vents (per així poder arribar al cul del pis de segon) i tenen moltíssima força de braços.",
-		"wikipedia":"https://ca.wikipedia.org/wiki/5_de_7",
-		"size":40,
-		"image":"17--Cstllscp_Fsc_primeres_Guty.png",
-		"video":"tronc_12.mp4",
-		"youtube":"https://www.youtube.com/embed/15i7jjls9iM",
-		"position":{
-			"rotation_y":"0",
-			"rotation_x":"0",
-			"axis_x":"0",
-			"axis_y":"25",
-			"axis_z":"93.3013"
-		}
-	},
+    "id":"14",
+    "name":"Primeres mans",
+    "info":"El o la primeres mans és la persona que es col·loca darrere del contrafort i agafa el cul del segon o la segona. Excepte en els pilars, en què es diferencia entre primeres per davant i primeres per darrere, i el per davant agafa els engonals del segon o la segona. La missió del primeres mans és ajudar el segon a suportar el pes tot evitant que no s’assegui massa.<br>Els o les primeres mans són les persones de la colla més altes després dels vents (per així poder arribar al cul del pis de segon) i tenen moltíssima força de braços.",
+    "wikipedia":"https://ca.wikipedia.org/wiki/5_de_7",
+    "size":40,
+    "image":"17--Cstllscp_Fsc_primeres_Guty.png",
+    "video":"tronc_12.mp4",
+    "youtube":"https://www.youtube.com/embed/15i7jjls9iM",
+    "position":{
+      "rotation_y":"0",
+      "rotation_x":"0",
+      "axis_x":"0",
+      "axis_y":"25",
+      "axis_z":"93.3013"
+    }
+  },
     {
-		"id":"15",
-		"name":"Segon lateral",
-		"info":"El o la segon lateral és la persona que es col·loca darrere d’un lateral, deixant entrar primer el vent (l’ordre de tancar la pinya és importantíssim, i intercala laterals amb vents). La funció d’aquesta posició és ajudar al lateral darrera del qual es va, donant-li pit en la mesura necessària i possible, i ajudant-lo a nivell de braços agafant-lo pels canells o pels colzes. Cal, per tant, que es coneguin, s'entenguin i vagin a una. Ha de vigilar de no desplaçar el vent i de fer força cap amunt i no cap endavant.<br>Els i les segons laterals solen ser persones d’estatura i pes mitjans, amb certa força de braços.",
-		"wikipedia":"https://ca.wikipedia.org/wiki/4_de_7_amb_l%27agulla",
-		"size":40,
-		"image":"20--Cstllscp_Fsc_lateral_Toni.png",
-		"video":"tronc_13.mp4",
-		"youtube":"https://www.youtube.com/embed/Sa8vV5bO-sI",
-		"position":{
-			"rotation_y":"0.166667",
-			"rotation_x":"0",
-			"axis_x":"46.6506",
-			"axis_y":"25",
-			"axis_z":"80.8013"
-		}
-	},
+    "id":"15",
+    "name":"Segon lateral",
+    "info":"El o la segon lateral és la persona que es col·loca darrere d’un lateral, deixant entrar primer el vent (l’ordre de tancar la pinya és importantíssim, i intercala laterals amb vents). La funció d’aquesta posició és ajudar al lateral darrera del qual es va, donant-li pit en la mesura necessària i possible, i ajudant-lo a nivell de braços agafant-lo pels canells o pels colzes. Cal, per tant, que es coneguin, s'entenguin i vagin a una. Ha de vigilar de no desplaçar el vent i de fer força cap amunt i no cap endavant.<br>Els i les segons laterals solen ser persones d’estatura i pes mitjans, amb certa força de braços.",
+    "wikipedia":"https://ca.wikipedia.org/wiki/4_de_7_amb_l%27agulla",
+    "size":40,
+    "image":"20--Cstllscp_Fsc_lateral_Toni.png",
+    "video":"tronc_13.mp4",
+    "youtube":"https://www.youtube.com/embed/Sa8vV5bO-sI",
+    "position":{
+      "rotation_y":"0.166667",
+      "rotation_x":"0",
+      "axis_x":"46.6506",
+      "axis_y":"25",
+      "axis_z":"80.8013"
+    }
+  },
     {
-		"id":"16",
-		"name":"Vent",
-		"info":"El vent és la persona que darrere i entre els laterals (un de cada rengla) agafa cama dels segons o les segones de dues rengles diferents (excepte en els pilars) i evita que s’ajuntin (controlant-te el moviment lateral). És l’única posició que treballa per dues rengles alhora. En els castells amb agulla o pilar al mig, els vents acostumen a deixar el tronc i agafar el pilar (que fins al moment s’aguanta amb poques mans) un cop els dosos ja baixen del castell.<br>Els vents acostumen a ser homes (per un tema d'alçada), els més alts de la pinya i de la colla, ja que des de darrere dels laterals han de poder arribar igualment a les cames dels segons amb solvència.",
-		"wikipedia":"https://ca.wikipedia.org/wiki/4_de_7",
-		"size":40,
-		"image":"23--Cstllscp_Fsc_vent_Filip.png",
-		"video":"tronc_13.mp4",
-		"youtube":"https://www.youtube.com/embed/HHM6u_SQ9MI",
-		"position":{
-			"rotation_y":"0.333333",
-			"rotation_x":"0",
-			"axis_x":"80.8013",
-			"axis_y":"25",
-			"axis_z":"46.6506"
-		}
-	},
+    "id":"16",
+    "name":"Vent",
+    "info":"El vent és la persona que darrere i entre els laterals (un de cada rengla) agafa cama dels segons o les segones de dues rengles diferents (excepte en els pilars) i evita que s’ajuntin (controlant-te el moviment lateral). És l’única posició que treballa per dues rengles alhora. En els castells amb agulla o pilar al mig, els vents acostumen a deixar el tronc i agafar el pilar (que fins al moment s’aguanta amb poques mans) un cop els dosos ja baixen del castell.<br>Els vents acostumen a ser homes (per un tema d'alçada), els més alts de la pinya i de la colla, ja que des de darrere dels laterals han de poder arribar igualment a les cames dels segons amb solvència.",
+    "wikipedia":"https://ca.wikipedia.org/wiki/4_de_7",
+    "size":40,
+    "image":"23--Cstllscp_Fsc_vent_Filip.png",
+    "video":"tronc_13.mp4",
+    "youtube":"https://www.youtube.com/embed/HHM6u_SQ9MI",
+    "position":{
+      "rotation_y":"0.333333",
+      "rotation_x":"0",
+      "axis_x":"80.8013",
+      "axis_y":"25",
+      "axis_z":"46.6506"
+    }
+  },
     {
-		"id":"17",
-		"name":"Segon lateral",
-		"info":"El o la segon lateral és la persona que es col·loca darrere d’un lateral, deixant entrar primer el vent (l’ordre de tancar la pinya és importantíssim, i intercala laterals amb vents). La funció d’aquesta posició és ajudar al lateral darrera del qual es va, donant-li pit en la mesura necessària i possible, i ajudant-lo a nivell de braços agafant-lo pels canells o pels colzes. Cal, per tant, que es coneguin, s'entenguin i vagin a una. Ha de vigilar de no desplaçar el vent i de fer força cap amunt i no cap endavant.<br>Els i les segons laterals solen ser persones d’estatura i pes mitjans, amb certa força de braços.",
-		"wikipedia":"https://ca.wikipedia.org/wiki/3_de_7",
-		"size":40,
-		"image":"19--Cstllscp_Fsc_lateral_Xavier.png",
-		"video":"tronc_12.mp4",
-		"youtube":"https://www.youtube.com/embed/deeN4Pf31Jg",
-		"position":{
-			"rotation_y":"0.833333",
-			"rotation_x":"0",
-			"axis_x":"46.6506",
-			"axis_y":"25",
-			"axis_z":"-80.8013"
-		}
-	},
+    "id":"17",
+    "name":"Segon lateral",
+    "info":"El o la segon lateral és la persona que es col·loca darrere d’un lateral, deixant entrar primer el vent (l’ordre de tancar la pinya és importantíssim, i intercala laterals amb vents). La funció d’aquesta posició és ajudar al lateral darrera del qual es va, donant-li pit en la mesura necessària i possible, i ajudant-lo a nivell de braços agafant-lo pels canells o pels colzes. Cal, per tant, que es coneguin, s'entenguin i vagin a una. Ha de vigilar de no desplaçar el vent i de fer força cap amunt i no cap endavant.<br>Els i les segons laterals solen ser persones d’estatura i pes mitjans, amb certa força de braços.",
+    "wikipedia":"https://ca.wikipedia.org/wiki/3_de_7",
+    "size":40,
+    "image":"19--Cstllscp_Fsc_lateral_Xavier.png",
+    "video":"tronc_12.mp4",
+    "youtube":"https://www.youtube.com/embed/deeN4Pf31Jg",
+    "position":{
+      "rotation_y":"0.833333",
+      "rotation_x":"0",
+      "axis_x":"46.6506",
+      "axis_y":"25",
+      "axis_z":"-80.8013"
+    }
+  },
     {
-		"id":"18",
-		"name":"Segones mans",
-		"info":"El o la segones mans és la persona que es col·loca darrere el primeres mans i l’ajuda en la seva tasca d’aixecar el segon agafant-lo pel cul. L’ajuda agafant-lo pels braços a l’alçada dels canells o dels colzes, i li dóna pressió amb el pit. Cal, per tant, que es coneguin, s'entenguin i vagin a una. Com a tot arreu de la pinya, demana pressió de pit a darrere seu (tercers mans, quartes mans...) si li’n demanen a davant.<br>Els i les segones mans solen ser persones altes i fortes, tot i que no tant com els o les primeres mans, ja no són el primer cordó de pinya en contacte directe amb el tronc.",
-		"wikipedia":"https://ca.wikipedia.org/wiki/2_de_7",
-		"size":40,
-		"image":"27--Cstllscp_Fsc_segones_Txiqui.png",
-		"video":"tronc_13.mp4",
-		"youtube":"https://www.youtube.com/embed/pq0MItGlU6A",
-		"position":{
-			"rotation_y":"0.666667",
-			"rotation_x":"0",
-			"axis_x":"80.8013",
-			"axis_y":"25",
-			"axis_z":"-46.6506"
-		}
-	}, 
-	{
-		"id":"19",
-		"name":"Lateral aixecador",
-		"info":"El lateral aixecador és la persona que fa de lateral en un castell aixecat per sota (bàsicament pilars i tresos). En aquests castells, en els quals la pinya aixeca el tronc, els laterals i la seva sincronització esdevenen claus per a l’èxit del castell. Agafant per sota l’aixella i per la faixa, els lateral aixecadors col·loquen un pis sobre l’altre al ritme i instruccions que marca la persona que canta el castell. Els dos laterals a banda i banda d’una mateixa rengla cal que ho facin perfectament sincronitzats, i tota la rengla ha de pujar sincronitzada amb les altres rengles.<br>Els laterals aixecadors solen ser persones d’estatura mitjana de braços molt forts, amb molta capacitat de concentració i treball en equip, i que siguin molt constants a assaig (perquè la sincronització ho requereix).",
-		"wikipedia":"https://ca.wikipedia.org/wiki/3_de_7_aixecat_per_sota",
-		"size":40,
-		"image":"30--Cstllscp_Fsc_Lateral-aixecador_Albert.png",
-		"video":"tronc_13.mp4",
-		"youtube":"https://www.youtube.com/embed/-k_blOTF5pc",
-		"position":{
-			"rotation_y":"0.5",
-			"rotation_x":"0",
-			"axis_x":"93.3013",
-			"axis_y":"25",
-			"axis_z":"2.75142"
-		}
-	},
-	{
-		"id":"20",
-		"name":"Últim cordó",
-		"info":"L’últim cordó és l’últim cercle de castellers i castelleres que, al voltant de la pinya, empeny l’última volta de gent que està enganxada pit contra esquena.<br>La persona que fa d’últim cordó empeny, amb els braços estesos, l’esquena d’una de les persones que ocupen l’última volta de pinya. Així, assegura la pressió a la pinya (que només donant pit és més difícil). L’últim cordó també acostuma a ajudar la canalla a baixar de la pinya, a fer d’escaleta perquè el tronc pugui pujar més fàcilment, i a avisar la pinya en cas de possible caiguda (perquè estiguin preparats, perquè segueixin amb el cap baixat i perquè no es moguin del lloc en cas de que efectivament el castell faci llenya). Per aquest motiu també se'l coneix com a cordó de seguretat. Qui vulgui ocupar aquesta posició ha de tenir força de braços i cert coneixement casteller.",
-		"wikipedia":"https://ca.wikipedia.org/wiki/7_de_6",
-		"size":40,
-		"image":"35--Cstllscp_Fsc_últim_cordó_Carme.png",
-		"video":"tronc_13.mp4",
-		"youtube":"https://www.youtube.com/embed/vVcbuerbyd0",
-		"position":{
-			"rotation_y":"1",
-			"rotation_x":"0",
-			"axis_x":"5.50285e-08",
-			"axis_y":"25",
-			"axis_z":"-93.3013"
-		}
-	},
-	{
-		"id":"21",
-		"name":"Músics - Gralles i Tabals",
-		"info":"Els grallers i les gralleres i els tabalers i les tabaleres conformen el grup de músics d’una colla castellera. Ja ho diu el càntic, “sense músics no hi ha castells!”. I és que la funció dels músics és cabdal i diversa. Per una banda, fan tradició i festa, com passa amb la resta de mostres de la nostra cultura popular. I no només durant l’execució dels castells. També abans amb cercaviles i després amb ballades populars. Per l’altra, són claus per a l’èxit de les torres humanes. El toc de castells (cançó que acompanya sempre els castells) narra l’evolució del castell (inici, aleta, descarregada i final), de manera que la gent que forma el castell pot saber què està passant tot i no poder-lo veure. Així, si ja s’ha carregat (l’enxaneta ha fet l’aleta), toca pencar de valent per descarregar-lo amb èxit.<br>Els i les músics solen ser persones de totes les edats i condicions. Solen ser gent amant de la música i la cultura popular, són membres per igual de la colla.",
-		"wikipedia":"https://ca.wikipedia.org/wiki/Pilar_de_4",
-		"size":40,
-		"image":"28--Cstllscp_Fsc_Músics_gralles_i_tabals.png",
-		"video":"tronc_13.mp4",
-		"youtube":"https://www.youtube.com/embed/Kz6YvEwa9RY",
-		"position":{
-			"rotation_y":"0",
-			"rotation_x":"0",
-			"axis_x":"0",
-			"axis_y":"25",
-			"axis_z":"132.73505"
-		}
-	},
+    "id":"18",
+    "name":"Segones mans",
+    "info":"El o la segones mans és la persona que es col·loca darrere el primeres mans i l’ajuda en la seva tasca d’aixecar el segon agafant-lo pel cul. L’ajuda agafant-lo pels braços a l’alçada dels canells o dels colzes, i li dóna pressió amb el pit. Cal, per tant, que es coneguin, s'entenguin i vagin a una. Com a tot arreu de la pinya, demana pressió de pit a darrere seu (tercers mans, quartes mans...) si li’n demanen a davant.<br>Els i les segones mans solen ser persones altes i fortes, tot i que no tant com els o les primeres mans, ja no són el primer cordó de pinya en contacte directe amb el tronc.",
+    "wikipedia":"https://ca.wikipedia.org/wiki/2_de_7",
+    "size":40,
+    "image":"27--Cstllscp_Fsc_segones_Txiqui.png",
+    "video":"tronc_13.mp4",
+    "youtube":"https://www.youtube.com/embed/pq0MItGlU6A",
+    "position":{
+      "rotation_y":"0.666667",
+      "rotation_x":"0",
+      "axis_x":"80.8013",
+      "axis_y":"25",
+      "axis_z":"-46.6506"
+    }
+  }, 
+  {
+    "id":"19",
+    "name":"Lateral aixecador",
+    "info":"El lateral aixecador és la persona que fa de lateral en un castell aixecat per sota (bàsicament pilars i tresos). En aquests castells, en els quals la pinya aixeca el tronc, els laterals i la seva sincronització esdevenen claus per a l’èxit del castell. Agafant per sota l’aixella i per la faixa, els lateral aixecadors col·loquen un pis sobre l’altre al ritme i instruccions que marca la persona que canta el castell. Els dos laterals a banda i banda d’una mateixa rengla cal que ho facin perfectament sincronitzats, i tota la rengla ha de pujar sincronitzada amb les altres rengles.<br>Els laterals aixecadors solen ser persones d’estatura mitjana de braços molt forts, amb molta capacitat de concentració i treball en equip, i que siguin molt constants a assaig (perquè la sincronització ho requereix).",
+    "wikipedia":"https://ca.wikipedia.org/wiki/3_de_7_aixecat_per_sota",
+    "size":40,
+    "image":"30--Cstllscp_Fsc_Lateral-aixecador_Albert.png",
+    "video":"tronc_13.mp4",
+    "youtube":"https://www.youtube.com/embed/-k_blOTF5pc",
+    "position":{
+      "rotation_y":"0.5",
+      "rotation_x":"0",
+      "axis_x":"93.3013",
+      "axis_y":"25",
+      "axis_z":"2.75142"
+    }
+  },
+  {
+    "id":"20",
+    "name":"Últim cordó",
+    "info":"L’últim cordó és l’últim cercle de castellers i castelleres que, al voltant de la pinya, empeny l’última volta de gent que està enganxada pit contra esquena.<br>La persona que fa d’últim cordó empeny, amb els braços estesos, l’esquena d’una de les persones que ocupen l’última volta de pinya. Així, assegura la pressió a la pinya (que només donant pit és més difícil). L’últim cordó també acostuma a ajudar la canalla a baixar de la pinya, a fer d’escaleta perquè el tronc pugui pujar més fàcilment, i a avisar la pinya en cas de possible caiguda (perquè estiguin preparats, perquè segueixin amb el cap baixat i perquè no es moguin del lloc en cas de que efectivament el castell faci llenya). Per aquest motiu també se'l coneix com a cordó de seguretat. Qui vulgui ocupar aquesta posició ha de tenir força de braços i cert coneixement casteller.",
+    "wikipedia":"https://ca.wikipedia.org/wiki/7_de_6",
+    "size":40,
+    "image":"35--Cstllscp_Fsc_últim_cordó_Carme.png",
+    "video":"tronc_13.mp4",
+    "youtube":"https://www.youtube.com/embed/vVcbuerbyd0",
+    "position":{
+      "rotation_y":"1",
+      "rotation_x":"0",
+      "axis_x":"5.50285e-08",
+      "axis_y":"25",
+      "axis_z":"-93.3013"
+    }
+  },
+  {
+    "id":"21",
+    "name":"Músics - Gralles i Tabals",
+    "info":"Els grallers i les gralleres i els tabalers i les tabaleres conformen el grup de músics d’una colla castellera. Ja ho diu el càntic, “sense músics no hi ha castells!”. I és que la funció dels músics és cabdal i diversa. Per una banda, fan tradició i festa, com passa amb la resta de mostres de la nostra cultura popular. I no només durant l’execució dels castells. També abans amb cercaviles i després amb ballades populars. Per l’altra, són claus per a l’èxit de les torres humanes. El toc de castells (cançó que acompanya sempre els castells) narra l’evolució del castell (inici, aleta, descarregada i final), de manera que la gent que forma el castell pot saber què està passant tot i no poder-lo veure. Així, si ja s’ha carregat (l’enxaneta ha fet l’aleta), toca pencar de valent per descarregar-lo amb èxit.<br>Els i les músics solen ser persones de totes les edats i condicions. Solen ser gent amant de la música i la cultura popular, són membres per igual de la colla.",
+    "wikipedia":"https://ca.wikipedia.org/wiki/Pilar_de_4",
+    "size":40,
+    "image":"28--Cstllscp_Fsc_Músics_gralles_i_tabals.png",
+    "video":"tronc_13.mp4",
+    "youtube":"https://www.youtube.com/embed/Kz6YvEwa9RY",
+    "position":{
+      "rotation_y":"0",
+      "rotation_x":"0",
+      "axis_x":"0",
+      "axis_y":"25",
+      "axis_z":"132.73505"
+    }
+  },
     {
-		"id":"22",
-		"name":"Cap de colla",
-		"info":"El o la cap de colla és la persona escollida en assemblea per liderar la colla durant els anys que s’estableixin en els estatuts de l’entitat. Aquesta persona, amb un equip al darrere, estableix els objectius castellers i la manera d’assolir-los -dinàmica d’assaig, calendari d’actuacions, persones que conformaran cada part de cada castell, castells a portar a plaça,...- i dirigeix les actuacions. Durant aquestes, canta cada castell. I això vol dir donar les instruccions de tancar pinya, de fer pujar cada pis, de retransmetre el castell, i d’indicar millores o rectificacions per assolir-ne l’èxit. Si van maldades, és la persona que decideix si el castell segueix endavant o, si en canvi, es desmunta per evitar una caiguda.<br>El o la cap de colla és una persona amb molta experiència castellera, amb carisma i empatia, i amb una gran capacitat de lideratge, d’assumir responsabilitats i de tirar endavant un projecte col·lectiu molt heterogeni.",
-		"wikipedia":"https://ca.wikipedia.org/wiki/4_de_8",
-		"size":40,
-		"image":"18--Cstllscp_Fsc_cap_de_colla_Kiki.png",
-		"video":"tronc_13.mp4",
-		"youtube":"https://www.youtube.com/embed/dZn2mGMdnvQ",
-		"position":{
-			"rotation_y":"0.666667",
-			"rotation_x":"0",
-			"axis_x":"114.9519575",
-			"axis_y":"25",
-			"axis_z":"-66.36746919"
-		}
-	},
+    "id":"22",
+    "name":"Cap de colla",
+    "info":"El o la cap de colla és la persona escollida en assemblea per liderar la colla durant els anys que s’estableixin en els estatuts de l’entitat. Aquesta persona, amb un equip al darrere, estableix els objectius castellers i la manera d’assolir-los -dinàmica d’assaig, calendari d’actuacions, persones que conformaran cada part de cada castell, castells a portar a plaça,...- i dirigeix les actuacions. Durant aquestes, canta cada castell. I això vol dir donar les instruccions de tancar pinya, de fer pujar cada pis, de retransmetre el castell, i d’indicar millores o rectificacions per assolir-ne l’èxit. Si van maldades, és la persona que decideix si el castell segueix endavant o, si en canvi, es desmunta per evitar una caiguda.<br>El o la cap de colla és una persona amb molta experiència castellera, amb carisma i empatia, i amb una gran capacitat de lideratge, d’assumir responsabilitats i de tirar endavant un projecte col·lectiu molt heterogeni.",
+    "wikipedia":"https://ca.wikipedia.org/wiki/4_de_8",
+    "size":40,
+    "image":"18--Cstllscp_Fsc_cap_de_colla_Kiki.png",
+    "video":"tronc_13.mp4",
+    "youtube":"https://www.youtube.com/embed/dZn2mGMdnvQ",
+    "position":{
+      "rotation_y":"0.666667",
+      "rotation_x":"0",
+      "axis_x":"114.9519575",
+      "axis_y":"25",
+      "axis_z":"-66.36746919"
+    }
+  },
     {
-		"id":"23",
-		"name":"Segon o Segona",
-		"info":"El segon o la segona és la persona que es col·loca sobre la pinya. En concret, posa els seus peus a les espatlles del baix o la baixa. Rep l’ajuda de la pinya (agulla, primeres mans, laterals i vents) però ha d’aguantar tots els pisos superiors. El segon o la segona ha d’aguantar el pes del castell mantenint la postura i entenent-se amb la pinya, evitant deformar la forma del castell.<br>Els segons i les segones solen ser persones robustes i amb una musculatura d’espatlles i esquena molt forta.",
-		"wikipedia":"https://ca.wikipedia.org/wiki/5_de_7",
-		"size":40,
-		"image":"12--Cstllscp_Fsc_segon_Cucu.png",
-		"video":"tronc_13.mp4",
-		"youtube":"https://www.youtube.com/embed/nhz9d1Gheps",
-		"position":{
-			"rotation_y":"0",
-			"rotation_x":"0",
-			"axis_x":"0",
-			"axis_y":"75",
-			"axis_z":"30"
-		}
-	},
+    "id":"23",
+    "name":"Segon o Segona",
+    "info":"El segon o la segona és la persona que es col·loca sobre la pinya. En concret, posa els seus peus a les espatlles del baix o la baixa. Rep l’ajuda de la pinya (agulla, primeres mans, laterals i vents) però ha d’aguantar tots els pisos superiors. El segon o la segona ha d’aguantar el pes del castell mantenint la postura i entenent-se amb la pinya, evitant deformar la forma del castell.<br>Els segons i les segones solen ser persones robustes i amb una musculatura d’espatlles i esquena molt forta.",
+    "wikipedia":"https://ca.wikipedia.org/wiki/5_de_7",
+    "size":40,
+    "image":"12--Cstllscp_Fsc_segon_Cucu.png",
+    "video":"tronc_13.mp4",
+    "youtube":"https://www.youtube.com/embed/nhz9d1Gheps",
+    "position":{
+      "rotation_y":"0",
+      "rotation_x":"0",
+      "axis_x":"0",
+      "axis_y":"75",
+      "axis_z":"30"
+    }
+  },
     {
-		"id":"24",
-		"name":"Segon o Segona",
-		"info":"El segon o la segona és la persona que es col·loca sobre la pinya. En concret, posa els seus peus a les espatlles del baix o la baixa. Rep l’ajuda de la pinya (agulla, primeres mans, laterals i vents) però ha d’aguantar tots els pisos superiors. El segon o la segona ha d’aguantar el pes del castell mantenint la postura i entenent-se amb la pinya, evitant deformar la forma del castell.<br>Els segons i les segones solen ser persones robustes i amb una musculatura d’espatlles i esquena molt forta.",
-		"wikipedia":"https://ca.wikipedia.org/wiki/4_de_7",
-		"size":40,
-		"image":"11--Cstllscp_Fsc__segon_Pau.png",
-		"video":"tronc_12.mp4",
-		"youtube":"https://www.youtube.com/embed/U2Tmot0Cv7U",
-		"position":{
-			"rotation_y":"0.666667",
-			"rotation_x":"0",
-			"axis_x":"25.98076064",
-			"axis_y":"75",
-			"axis_z":"-15.00000255"
-		}
-	},
+    "id":"24",
+    "name":"Segon o Segona",
+    "info":"El segon o la segona és la persona que es col·loca sobre la pinya. En concret, posa els seus peus a les espatlles del baix o la baixa. Rep l’ajuda de la pinya (agulla, primeres mans, laterals i vents) però ha d’aguantar tots els pisos superiors. El segon o la segona ha d’aguantar el pes del castell mantenint la postura i entenent-se amb la pinya, evitant deformar la forma del castell.<br>Els segons i les segones solen ser persones robustes i amb una musculatura d’espatlles i esquena molt forta.",
+    "wikipedia":"https://ca.wikipedia.org/wiki/4_de_7",
+    "size":40,
+    "image":"11--Cstllscp_Fsc__segon_Pau.png",
+    "video":"tronc_12.mp4",
+    "youtube":"https://www.youtube.com/embed/U2Tmot0Cv7U",
+    "position":{
+      "rotation_y":"0.666667",
+      "rotation_x":"0",
+      "axis_x":"25.98076064",
+      "axis_y":"75",
+      "axis_z":"-15.00000255"
+    }
+  },
     {
-		"id":"25",
-		"name":"Segon o Segona",
-		"info":"El segon o la segona és la persona que es col·loca sobre la pinya. En concret, posa els seus peus a les espatlles del baix o la baixa. Rep l’ajuda de la pinya (agulla, primeres mans, laterals i vents) però ha d’aguantar tots els pisos superiors. El segon o la segona ha d’aguantar el pes del castell mantenint la postura i entenent-se amb la pinya, evitant deformar la forma del castell.<br>Els segons i les segones solen ser persones robustes i amb una musculatura d’espatlles i esquena molt forta.",
-		"wikipedia":"https://ca.wikipedia.org/wiki/3_de_7",
-		"size":40,
-		"image":"13--10.1_Castelloscopi_Subjectiu_Ángel_segon_3d7_Diada_Esplugues_(23-III-14)_dfnt.png",
-		"video":"tronc_12.mp4",
-		"youtube":"https://www.youtube.com/embed/RxaGIPrYj78",
-		"position":{
-			"rotation_y":"1.33333",
-			"rotation_x":"0",
-			"axis_x":"-25.98076064",
-			"axis_y":"75",
-			"axis_z":"-15.00000255"
-		}
-	},
+    "id":"25",
+    "name":"Segon o Segona",
+    "info":"El segon o la segona és la persona que es col·loca sobre la pinya. En concret, posa els seus peus a les espatlles del baix o la baixa. Rep l’ajuda de la pinya (agulla, primeres mans, laterals i vents) però ha d’aguantar tots els pisos superiors. El segon o la segona ha d’aguantar el pes del castell mantenint la postura i entenent-se amb la pinya, evitant deformar la forma del castell.<br>Els segons i les segones solen ser persones robustes i amb una musculatura d’espatlles i esquena molt forta.",
+    "wikipedia":"https://ca.wikipedia.org/wiki/3_de_7",
+    "size":40,
+    "image":"13--10.1_Castelloscopi_Subjectiu_Ángel_segon_3d7_Diada_Esplugues_(23-III-14)_dfnt.png",
+    "video":"tronc_12.mp4",
+    "youtube":"https://www.youtube.com/embed/RxaGIPrYj78",
+    "position":{
+      "rotation_y":"1.33333",
+      "rotation_x":"0",
+      "axis_x":"-25.98076064",
+      "axis_y":"75",
+      "axis_z":"-15.00000255"
+    }
+  },
     {
-		"id":"26",
-		"name":"Terç o Terça",
-		"info":"El terç o terça és la persona que ocupa el pis de sobre els segons. És a dir, és el primer pis del castell sense ajuda de la pinya, i per tant requereix molta més tècnica, tot i aguantar menys pes. El terç o la terça s’ha d’entendre amb el segon (però ja no amb la pinya), amb la quarta i amb la resta de membres del seu pis (excepte pilars). La seva funció és mantenir el castell dret i tranquil (minimitzant el pas de batzegades entre la part superior del castell i la pinya), en una tasca híbrida entre aguantar molt de pes i alhora mantenir l’equilibri.<br>Els terços i les terces solen ser persones d’estatura mitjana i complexitat bastant atlètica, amb molta tècnica. ",
-		"wikipedia":"https://ca.wikipedia.org/wiki/5_de_7",
-		"size":40,
-		"image":"09--Cstllscp_Fsc_terç_Héctor.png",
-		"video":"tronc_13.mp4",
-		"youtube":"https://www.youtube.com/embed/DIIbyTm_ed0",
-		"position":{
-			"rotation_y":"0",
-			"rotation_x":"0",
-			"axis_x":"0",
-			"axis_y":"125",
-			"axis_z":"30"
-		}
-	},
+    "id":"26",
+    "name":"Terç o Terça",
+    "info":"El terç o terça és la persona que ocupa el pis de sobre els segons. És a dir, és el primer pis del castell sense ajuda de la pinya, i per tant requereix molta més tècnica, tot i aguantar menys pes. El terç o la terça s’ha d’entendre amb el segon (però ja no amb la pinya), amb la quarta i amb la resta de membres del seu pis (excepte pilars). La seva funció és mantenir el castell dret i tranquil (minimitzant el pas de batzegades entre la part superior del castell i la pinya), en una tasca híbrida entre aguantar molt de pes i alhora mantenir l’equilibri.<br>Els terços i les terces solen ser persones d’estatura mitjana i complexitat bastant atlètica, amb molta tècnica. ",
+    "wikipedia":"https://ca.wikipedia.org/wiki/5_de_7",
+    "size":40,
+    "image":"09--Cstllscp_Fsc_terç_Héctor.png",
+    "video":"tronc_13.mp4",
+    "youtube":"https://www.youtube.com/embed/DIIbyTm_ed0",
+    "position":{
+      "rotation_y":"0",
+      "rotation_x":"0",
+      "axis_x":"0",
+      "axis_y":"125",
+      "axis_z":"30"
+    }
+  },
     {
-		"id":"27",
-		"name":"Terç o Terça",
-		"info":"El terç o terça és la persona que ocupa el pis de sobre els segons. És a dir, és el primer pis del castell sense ajuda de la pinya, i per tant requereix molta més tècnica, tot i aguantar menys pes. El terç o la terça s’ha d’entendre amb el segon (però ja no amb la pinya), amb la quarta i amb la resta de membres del seu pis (excepte pilars). La seva funció és mantenir el castell dret i tranquil (minimitzant el pas de batzegades entre la part superior del castell i la pinya), en una tasca híbrida entre aguantar molt de pes i alhora mantenir l’equilibri.<br>Els terços i les terces solen ser persones d’estatura mitjana i complexitat bastant atlètica, amb molta tècnica.",
-		"wikipedia":"https://ca.wikipedia.org/wiki/7_de_7",
-		"size":40,
-		"image":"08--Cstllscp_Fsc_terça_Laura.png",
-		"video":"tronc_12.mp4",
-		"youtube":"https://www.youtube.com/embed/-f21RLodW2E",
-		"position":{
-			"rotation_y":"0.666667",
-			"rotation_x":"0",
-			"axis_x":"25.98076064",
-			"axis_y":"125",
-			"axis_z":"-15.00000255"
-		}
-	},
+    "id":"27",
+    "name":"Terç o Terça",
+    "info":"El terç o terça és la persona que ocupa el pis de sobre els segons. És a dir, és el primer pis del castell sense ajuda de la pinya, i per tant requereix molta més tècnica, tot i aguantar menys pes. El terç o la terça s’ha d’entendre amb el segon (però ja no amb la pinya), amb la quarta i amb la resta de membres del seu pis (excepte pilars). La seva funció és mantenir el castell dret i tranquil (minimitzant el pas de batzegades entre la part superior del castell i la pinya), en una tasca híbrida entre aguantar molt de pes i alhora mantenir l’equilibri.<br>Els terços i les terces solen ser persones d’estatura mitjana i complexitat bastant atlètica, amb molta tècnica.",
+    "wikipedia":"https://ca.wikipedia.org/wiki/7_de_7",
+    "size":40,
+    "image":"08--Cstllscp_Fsc_terça_Laura.png",
+    "video":"tronc_12.mp4",
+    "youtube":"https://www.youtube.com/embed/-f21RLodW2E",
+    "position":{
+      "rotation_y":"0.666667",
+      "rotation_x":"0",
+      "axis_x":"25.98076064",
+      "axis_y":"125",
+      "axis_z":"-15.00000255"
+    }
+  },
     {
-		"id":"28",
-		"name":"Terç o Terça",
-		"info":"El terç o terça és la persona que ocupa el pis de sobre els segons. És a dir, és el primer pis del castell sense ajuda de la pinya, i per tant requereix molta més tècnica, tot i aguantar menys pes. El terç o la terça s’ha d’entendre amb el segon (però ja no amb la pinya), amb la quarta i amb la resta de membres del seu pis (excepte pilars). La seva funció és mantenir el castell dret i tranquil (minimitzant el pas de batzegades entre la part superior del castell i la pinya), en una tasca híbrida entre aguantar molt de pes i alhora mantenir l’equilibri.<br>Els terços i les terces solen ser persones d’estatura mitjana i complexitat bastant atlètica, amb molta tècnica.",
-		"wikipedia":"https://ca.wikipedia.org/wiki/3_de_7",
-		"size":40,
-		"image":"10--Cstllscp_Fsc_trç_Gerard.png",
-		"video":"tronc_12.mp4",
-		"youtube":"https://www.youtube.com/embed/2Fu3GZr06so",
-		"position":{
-			"rotation_y":"1.33333",
-			"rotation_x":"0",
-			"axis_x":"-25.98076064",
-			"axis_y":"125",
-			"axis_z":"-15.00000255"
-		}
-	},
+    "id":"28",
+    "name":"Terç o Terça",
+    "info":"El terç o terça és la persona que ocupa el pis de sobre els segons. És a dir, és el primer pis del castell sense ajuda de la pinya, i per tant requereix molta més tècnica, tot i aguantar menys pes. El terç o la terça s’ha d’entendre amb el segon (però ja no amb la pinya), amb la quarta i amb la resta de membres del seu pis (excepte pilars). La seva funció és mantenir el castell dret i tranquil (minimitzant el pas de batzegades entre la part superior del castell i la pinya), en una tasca híbrida entre aguantar molt de pes i alhora mantenir l’equilibri.<br>Els terços i les terces solen ser persones d’estatura mitjana i complexitat bastant atlètica, amb molta tècnica.",
+    "wikipedia":"https://ca.wikipedia.org/wiki/3_de_7",
+    "size":40,
+    "image":"10--Cstllscp_Fsc_trç_Gerard.png",
+    "video":"tronc_12.mp4",
+    "youtube":"https://www.youtube.com/embed/2Fu3GZr06so",
+    "position":{
+      "rotation_y":"1.33333",
+      "rotation_x":"0",
+      "axis_x":"-25.98076064",
+      "axis_y":"125",
+      "axis_z":"-15.00000255"
+    }
+  },
     {
-		"id":"29",
-		"name":"Quarta o Quart",
-		"info":"La quarta o el quart és la persona que puja sobre del terç o la terça corresponent. És a dir, ocupa el tercer pis de sobre la pinya o el quart pis comptant la pinya. La quarta ha d’entendre’s amb el terç, amb la persona que té a sobre (pis de quintes o pom de dalt) i amb la resta de membres del seu pis (excepte pilars). La seva funció és mantenir el castell dret, donant confiança als pisos superiors, que o són canalla (castells de 7) o solen ser adolescents (castells de 8). No aguanten tant de pes, però requereixen de gran tècnica per poder treballar amb castells més deformats i amb moviments tant per baix com per dalt.<br>Les quartes i els quarts solen ser, en els castells de 7 pisos, dones joves fortes i primes d’estatura mitjana o petita. En els castells de 8 pisos, són tant dones com homes. però amb més corpulència i musculatura. Necessiten agilitat per pujar i una tècnica extrema, i també capacitat de mantenir la calma per transmetre serenor i confiança als pisos superiors.",
-		"wikipedia":"https://ca.wikipedia.org/wiki/4_de_7_amb_l%27agulla",
-		"size":40,
-		"image":"06--Cstllscp_Fsc_quarta_Debo.png",
-		"video":"tronc_12.mp4",
-		"youtube":"https://www.youtube.com/embed/Yoh_6LV3hO0",
-		"position":{
-			"rotation_y":"0",
-			"rotation_x":"0",
-			"axis_x":"0",
-			"axis_y":"175",
-			"axis_z":"30"
-		}
-	},
-	{
-		"id":"30",
-		"name":"Quarta o Quart",
-		"info":"La quarta o el quart és la persona que puja sobre del terç o la terça corresponent. És a dir, ocupa el tercer pis de sobre la pinya o el quart pis comptant la pinya. La quarta ha d’entendre’s amb el terç, amb la persona que té a sobre (pis de quintes o pom de dalt) i amb la resta de membres del seu pis (excepte pilars). La seva funció és mantenir el castell dret, donant confiança als pisos superiors, que o són canalla (castells de 7) o solen ser adolescents (castells de 8). No aguanten tant de pes, però requereixen de gran tècnica per poder treballar amb castells més deformats i amb moviments tant per baix com per dalt.<br>Les quartes i els quarts solen ser, en els castells de 7 pisos, dones joves fortes i primes d’estatura mitjana o petita. En els castells de 8 pisos, són tant dones com homes. però amb més corpulència i musculatura. Necessiten agilitat per pujar i una tècnica extrema, i també capacitat de mantenir la calma per transmetre serenor i confiança als pisos superiors.",
-		"wikipedia":"https://ca.wikipedia.org/wiki/7_de_7",
-		"size":40,
-		"image":"05--Cstllscp_Fsc_quarta_Marta.png",
-		"video":"tronc_13.mp4",
-		"youtube":"https://www.youtube.com/embed/4LhF6KuNzxU",
-		"position":{
-			"rotation_y":"0.666667",
-			"rotation_x":"0",
-			"axis_x":"25.98076064",
-			"axis_y":"175",
-			"axis_z":"-15.00000255"
-		}
-	},
+    "id":"29",
+    "name":"Quarta o Quart",
+    "info":"La quarta o el quart és la persona que puja sobre del terç o la terça corresponent. És a dir, ocupa el tercer pis de sobre la pinya o el quart pis comptant la pinya. La quarta ha d’entendre’s amb el terç, amb la persona que té a sobre (pis de quintes o pom de dalt) i amb la resta de membres del seu pis (excepte pilars). La seva funció és mantenir el castell dret, donant confiança als pisos superiors, que o són canalla (castells de 7) o solen ser adolescents (castells de 8). No aguanten tant de pes, però requereixen de gran tècnica per poder treballar amb castells més deformats i amb moviments tant per baix com per dalt.<br>Les quartes i els quarts solen ser, en els castells de 7 pisos, dones joves fortes i primes d’estatura mitjana o petita. En els castells de 8 pisos, són tant dones com homes. però amb més corpulència i musculatura. Necessiten agilitat per pujar i una tècnica extrema, i també capacitat de mantenir la calma per transmetre serenor i confiança als pisos superiors.",
+    "wikipedia":"https://ca.wikipedia.org/wiki/4_de_7_amb_l%27agulla",
+    "size":40,
+    "image":"06--Cstllscp_Fsc_quarta_Debo.png",
+    "video":"tronc_12.mp4",
+    "youtube":"https://www.youtube.com/embed/Yoh_6LV3hO0",
+    "position":{
+      "rotation_y":"0",
+      "rotation_x":"0",
+      "axis_x":"0",
+      "axis_y":"175",
+      "axis_z":"30"
+    }
+  },
+  {
+    "id":"30",
+    "name":"Quarta o Quart",
+    "info":"La quarta o el quart és la persona que puja sobre del terç o la terça corresponent. És a dir, ocupa el tercer pis de sobre la pinya o el quart pis comptant la pinya. La quarta ha d’entendre’s amb el terç, amb la persona que té a sobre (pis de quintes o pom de dalt) i amb la resta de membres del seu pis (excepte pilars). La seva funció és mantenir el castell dret, donant confiança als pisos superiors, que o són canalla (castells de 7) o solen ser adolescents (castells de 8). No aguanten tant de pes, però requereixen de gran tècnica per poder treballar amb castells més deformats i amb moviments tant per baix com per dalt.<br>Les quartes i els quarts solen ser, en els castells de 7 pisos, dones joves fortes i primes d’estatura mitjana o petita. En els castells de 8 pisos, són tant dones com homes. però amb més corpulència i musculatura. Necessiten agilitat per pujar i una tècnica extrema, i també capacitat de mantenir la calma per transmetre serenor i confiança als pisos superiors.",
+    "wikipedia":"https://ca.wikipedia.org/wiki/7_de_7",
+    "size":40,
+    "image":"05--Cstllscp_Fsc_quarta_Marta.png",
+    "video":"tronc_13.mp4",
+    "youtube":"https://www.youtube.com/embed/4LhF6KuNzxU",
+    "position":{
+      "rotation_y":"0.666667",
+      "rotation_x":"0",
+      "axis_x":"25.98076064",
+      "axis_y":"175",
+      "axis_z":"-15.00000255"
+    }
+  },
     {
-		"id":"31",
-		"name":"Quarta o Quart",
-		"info":"La quarta o el quart és la persona que puja sobre del terç o la terça corresponent. És a dir, ocupa el tercer pis de sobre la pinya o el quart pis comptant la pinya. La quarta ha d’entendre’s amb el terç, amb la persona que té a sobre (pis de quintes o pom de dalt) i amb la resta de membres del seu pis (excepte pilars). La seva funció és mantenir el castell dret, donant confiança als pisos superiors, que o són canalla (castells de 7) o solen ser adolescents (castells de 8). No aguanten tant de pes, però requereixen de gran tècnica per poder treballar amb castells més deformats i amb moviments tant per baix com per dalt.<br>Les quartes i els quarts solen ser, en els castells de 7 pisos, dones joves fortes i primes d’estatura mitjana o petita. En els castells de 8 pisos, són tant dones com homes. però amb més corpulència i musculatura. Necessiten agilitat per pujar i una tècnica extrema, i també capacitat de mantenir la calma per transmetre serenor i confiança als pisos superiors.",
-		"wikipedia":"https://ca.wikipedia.org/wiki/3_de_7",
-		"size":40,
-		"image":"07--Cstllscp_Fsc_quarta_Laia.png",
-		"video":"tronc_13.mp4",
-		"youtube":"https://www.youtube.com/embed/mOnxfd-pCac",
-		"position":{
-			"rotation_y":"1.33333",
-			"rotation_x":"0",
-			"axis_x":"-25.98076064",
-			"axis_y":"175",
-			"axis_z":"-15.00000255"
-		}
-	},
-	{
-		"id":"32",
-		"name":"Dos",
-		"info":"El o la dos és una de les dues persones (excepte pilars i castells compostos) que ocupen l’antepenúltim pis d’un castell, sota l’aixecadora i l’enxaneta. Treballen en parella i representen el pis pont entre tronc i canalla petita. El seu objectiu és mantenir-se fermes passi el que passi per sota, i facilitar la col·locació de l’aixecadora i la passada de l’enxaneta. S'anomena dos obert quan les seves dues cames es recolzen en rengles diferents, i dos tancat quan ambdues cames van a la mateixa rengla.<br>Les i els dosos solen ser nenes i nens de complexitat petita, d’entre 8 i 14 anys, valentes, amb una gran agilitat, molta tècnica castellera i bastanta força de braços. A més, han de saber transmetre confiança a la canalla més petita. L’èxit d’un castell molt sovint passa per elles.",
-		"wikipedia":"https://ca.wikipedia.org/wiki/5_de_7",
-		"size":35,
-		"image":"3--13.2_Castelloscopi_Subjectiu_Núria_Dos_obert_Diada_Santa_Madrona_(22-III-15)_dfnt-MPEG-2_5.0_Mbps_2-pass.m2v.png",
-		"video":"tronc_13.mp4",
-		"youtube":"https://www.youtube.com/embed/aGmjOCi7dJc",
-		"position":{
-			"rotation_y":"0.33333",
-			"rotation_x":"0",
-			"axis_x":"19.05255780337606",
-			"axis_y":"215",
-			"axis_z":"11.00000187040957"
-		}
-	},
-	{
-		"id":"33",
-		"name":"Dos",
-		"info":"El o la dos és una de les dues persones (excepte pilars i castells compostos) que ocupen l’antepenúltim pis d’un castell, sota l’aixecadora i l’enxaneta. Treballen en parella i representen el pis pont entre tronc i canalla petita. El seu objectiu és mantenir-se fermes passi el que passi per sota, i facilitar la col·locació de l’aixecadora i la passada de l’enxaneta. S'anomena dos obert quan les seves dues cames es recolzen en rengles diferents, i dos tancat quan ambdues cames van a la mateixa rengla.<br>Les i els dosos solen ser nenes i nens de complexitat petita, d’entre 8 i 14 anys, valentes, amb una gran agilitat, molta tècnica castellera i bastanta força de braços. A més, han de saber transmetre confiança a la canalla més petita. L’èxit d’un castell molt sovint passa per elles.",
-		"wikipedia":"https://ca.wikipedia.org/wiki/3_de_7",
-		"size":35,
-		"image":"4--13.1_Castelloscopi_Clara_dos_obert_3d7_Festa_Catalana_(9-VII-14)_dfnt-MPEG-2_5.0_Mbps_2-pass.m2v.png",
-		"video":"tronc_13.mp4",
-		"youtube":"https://www.youtube.com/embed/0YjOXmhTryY",
-		"position":{
-			"rotation_y":"1.33333",
-			"rotation_x":"0",
-			"axis_x":"-19.05255780337606",
-			"axis_y":"215",
-			"axis_z":"-11.00000187040957"
-		}
-	},
+    "id":"31",
+    "name":"Quarta o Quart",
+    "info":"La quarta o el quart és la persona que puja sobre del terç o la terça corresponent. És a dir, ocupa el tercer pis de sobre la pinya o el quart pis comptant la pinya. La quarta ha d’entendre’s amb el terç, amb la persona que té a sobre (pis de quintes o pom de dalt) i amb la resta de membres del seu pis (excepte pilars). La seva funció és mantenir el castell dret, donant confiança als pisos superiors, que o són canalla (castells de 7) o solen ser adolescents (castells de 8). No aguanten tant de pes, però requereixen de gran tècnica per poder treballar amb castells més deformats i amb moviments tant per baix com per dalt.<br>Les quartes i els quarts solen ser, en els castells de 7 pisos, dones joves fortes i primes d’estatura mitjana o petita. En els castells de 8 pisos, són tant dones com homes. però amb més corpulència i musculatura. Necessiten agilitat per pujar i una tècnica extrema, i també capacitat de mantenir la calma per transmetre serenor i confiança als pisos superiors.",
+    "wikipedia":"https://ca.wikipedia.org/wiki/3_de_7",
+    "size":40,
+    "image":"07--Cstllscp_Fsc_quarta_Laia.png",
+    "video":"tronc_13.mp4",
+    "youtube":"https://www.youtube.com/embed/mOnxfd-pCac",
+    "position":{
+      "rotation_y":"1.33333",
+      "rotation_x":"0",
+      "axis_x":"-25.98076064",
+      "axis_y":"175",
+      "axis_z":"-15.00000255"
+    }
+  },
+  {
+    "id":"32",
+    "name":"Dos",
+    "info":"El o la dos és una de les dues persones (excepte pilars i castells compostos) que ocupen l’antepenúltim pis d’un castell, sota l’aixecadora i l’enxaneta. Treballen en parella i representen el pis pont entre tronc i canalla petita. El seu objectiu és mantenir-se fermes passi el que passi per sota, i facilitar la col·locació de l’aixecadora i la passada de l’enxaneta. S'anomena dos obert quan les seves dues cames es recolzen en rengles diferents, i dos tancat quan ambdues cames van a la mateixa rengla.<br>Les i els dosos solen ser nenes i nens de complexitat petita, d’entre 8 i 14 anys, valentes, amb una gran agilitat, molta tècnica castellera i bastanta força de braços. A més, han de saber transmetre confiança a la canalla més petita. L’èxit d’un castell molt sovint passa per elles.",
+    "wikipedia":"https://ca.wikipedia.org/wiki/5_de_7",
+    "size":35,
+    "image":"3--13.2_Castelloscopi_Subjectiu_Núria_Dos_obert_Diada_Santa_Madrona_(22-III-15)_dfnt-MPEG-2_5.0_Mbps_2-pass.m2v.png",
+    "video":"tronc_13.mp4",
+    "youtube":"https://www.youtube.com/embed/aGmjOCi7dJc",
+    "position":{
+      "rotation_y":"0.33333",
+      "rotation_x":"0",
+      "axis_x":"19.05255780337606",
+      "axis_y":"215",
+      "axis_z":"11.00000187040957"
+    }
+  },
+  {
+    "id":"33",
+    "name":"Dos",
+    "info":"El o la dos és una de les dues persones (excepte pilars i castells compostos) que ocupen l’antepenúltim pis d’un castell, sota l’aixecadora i l’enxaneta. Treballen en parella i representen el pis pont entre tronc i canalla petita. El seu objectiu és mantenir-se fermes passi el que passi per sota, i facilitar la col·locació de l’aixecadora i la passada de l’enxaneta. S'anomena dos obert quan les seves dues cames es recolzen en rengles diferents, i dos tancat quan ambdues cames van a la mateixa rengla.<br>Les i els dosos solen ser nenes i nens de complexitat petita, d’entre 8 i 14 anys, valentes, amb una gran agilitat, molta tècnica castellera i bastanta força de braços. A més, han de saber transmetre confiança a la canalla més petita. L’èxit d’un castell molt sovint passa per elles.",
+    "wikipedia":"https://ca.wikipedia.org/wiki/3_de_7",
+    "size":35,
+    "image":"4--13.1_Castelloscopi_Clara_dos_obert_3d7_Festa_Catalana_(9-VII-14)_dfnt-MPEG-2_5.0_Mbps_2-pass.m2v.png",
+    "video":"tronc_13.mp4",
+    "youtube":"https://www.youtube.com/embed/0YjOXmhTryY",
+    "position":{
+      "rotation_y":"1.33333",
+      "rotation_x":"0",
+      "axis_x":"-19.05255780337606",
+      "axis_y":"215",
+      "axis_z":"-11.00000187040957"
+    }
+  },
     {
-		"id":"34",
-		"name":"Aixecadora o acotxadora",
-		"info":"L’aixecadora o aixecador (o acotxador/a) és l’infant més petit que puja a un castell. Abans del pas de l’enxaneta, es col·loca a sobre les dosos, a la gatzoneta. La seva funció és permetre un pas més segur de l’enxaneta.<br>L’aixecadora (normalment hi ha més nenes que fan ocupen aquesta posició) és un infant d’entre 4 i 8 anys, de complexitat petita, molt àgil i molt valenta (la posició facilita mirar cap a baix).",
-		"wikipedia":"https://ca.wikipedia.org/wiki/4_de_6_amb_l%27agulla",
-		"size":30,
-		"image":"1--13.3_Castelloscopi_Subjectiu_Irene_acotxadora_4d6a_Plaça_del_Setge_(11-IX-14)_dfnt-MPEG-2_5.0_Mbps_2-pass.m2v.png",
-		"video":"tronc_13.mp4",
-		"youtube":"https://www.youtube.com/embed/I6fm0Gr2ywc",
-		"position":{
-			"rotation_y":"0.83333",
-			"rotation_x":"0",
-			"axis_x":"11.00000187040957",
-			"axis_y":"250",
-			"axis_z":"-19.05255780337606"
-		}
-	},
+    "id":"34",
+    "name":"Aixecadora o acotxadora",
+    "info":"L’aixecadora o aixecador (o acotxador/a) és l’infant més petit que puja a un castell. Abans del pas de l’enxaneta, es col·loca a sobre les dosos, a la gatzoneta. La seva funció és permetre un pas més segur de l’enxaneta.<br>L’aixecadora (normalment hi ha més nenes que fan ocupen aquesta posició) és un infant d’entre 4 i 8 anys, de complexitat petita, molt àgil i molt valenta (la posició facilita mirar cap a baix).",
+    "wikipedia":"https://ca.wikipedia.org/wiki/4_de_6_amb_l%27agulla",
+    "size":30,
+    "image":"1--13.3_Castelloscopi_Subjectiu_Irene_acotxadora_4d6a_Plaça_del_Setge_(11-IX-14)_dfnt-MPEG-2_5.0_Mbps_2-pass.m2v.png",
+    "video":"tronc_13.mp4",
+    "youtube":"https://www.youtube.com/embed/I6fm0Gr2ywc",
+    "position":{
+      "rotation_y":"0.83333",
+      "rotation_x":"0",
+      "axis_x":"11.00000187040957",
+      "axis_y":"250",
+      "axis_z":"-19.05255780337606"
+    }
+  },
     {
-		"id":"35",
-		"name":"Enxaneta",
-		"info":"L’enxaneta o anxaneta és l’infant que corona el castell, que aixeca el braç amb el gest que es coneix com a “fer l’aleta” i que implica que el castell ja es consideri com a “carregat” (tot i que realment només cal que traspassi; el gest és opcional). La seva funció és coronar el castell sense dubtar-ho, fer l’aleta i baixar tot seguit el més ràpid possible, sense moure el castell.<br>L’enxaneta (normalment hi ha més nenes que fan ocupen aquesta posició) és un infant d’entre 5 i 8 anys, de complexitat petita (per una mica més gran que l’acotxadora, per poder-li passar per sobre), molt àgil i molt valenta. Un cop tothom col·locat, el castell depèn d’ella.",
-		"wikipedia":"https://ca.wikipedia.org/wiki/3_de_7",
-		"size":30,
-		"image":"2--13.4_Castelloscopi_Subjectiu_Laieta_3d7_V_Catalana_(11-IX-14)_dfnt-MPEG-2_5.0_Mbps_2-pass.m2v.png",
-		"video":"tronc_12.mp4",
-		"youtube":"https://www.youtube.com/embed/7hdhVngGTZc",
-		"position":{
-			"rotation_y":"1.83333",
-			"rotation_x":"0",
-			"axis_x":"-11.00000187040957",
-			"axis_y":"250",
-			"axis_z":"19.05255780337606"
-		}
-	},
-	{
-		"id":"36",
-		"name":"Baix",
-		"info":"",
-		"size":40,
-		"image":"",
-		"video":"",
-		"youtube":"",
-		"position":{
-			"rotation_y":"1.33333",
-			"rotation_x":"0",
-			"axis_x":"-25.98076064",
-			"axis_y":"25",
-			"axis_z":"-15.00000255"
-		}
-	},
-	{
-		"id":"37",
-		"name":"Contrafort",
-		"info":"",
-		"size":40,
-		"image":"",
-		"video":"",
-		"youtube":"",
-		"position":{
-			"rotation_y":"1.33333",
-			"rotation_x":"0",
-			"axis_x":"-46.65067982",
-			"axis_y":"25",
-			"axis_z":"-26.93375235"
-		}
-	},
-	{
-		"id":"38",
-		"name":"Crossa",
-		"info":"",
-		"size":40,
-		"image":"",
-		"video":"",
-		"youtube":"",
-		"position":{
-			"rotation_y":"0",
-			"rotation_x":"0",
-			"axis_x":"-59.76656662",
-			"axis_y":"25",
-			"axis_z":"-5.287486646"
-		}
-	},
-	{
-		"id":"39",
-		"name":"Crossa",
-		"info":"",
-		"size":40,
-		"image":"",
-		"video":"",
-		"youtube":"",
-		"position":{
-			"rotation_y":"0.666667",
-			"rotation_x":"0",
-			"axis_x":"-29.99997477",
-			"axis_y":"25",
-			"axis_z":"-51.96153879"
-		}
-	},
-	{
-		"id":"40",
-		"name":"Primeres mans",
-		"info":"",
-		"size":40,
-		"image":"",
-		"video":"",
-		"youtube":"",
-		"position":{
-			"rotation_y":"1.33333",
-			"rotation_x":"0",
-			"axis_x":"-80.8013",
-			"axis_y":"25",
-			"axis_z":"-46.6506"
-		}
-	},
-	{
-		"id":"41",
-		"name":"Segones mans",
-		"info":"",
-		"size":40,
-		"image":"",
-		"video":"",
-		"youtube":"",
-		"position":{
-			"rotation_y":"1.33333",
-			"rotation_x":"0",
-			"axis_x":"-114.9519575",
-			"axis_y":"25",
-			"axis_z":"-66.36746919"
-		}
-	},
-	{
-		"id":"42",
-		"name":"Lateral",
-		"info":"",
-		"size":40,
-		"image":"",
-		"video":"",
-		"youtube":"",
-		"position":{
-			"rotation_y":"1.5",
-			"rotation_x":"0",
-			"axis_x":"-93.3013",
-			"axis_y":"25",
-			"axis_z":"-2.75142"
-		}
-	},
+    "id":"35",
+    "name":"Enxaneta",
+    "info":"L’enxaneta o anxaneta és l’infant que corona el castell, que aixeca el braç amb el gest que es coneix com a “fer l’aleta” i que implica que el castell ja es consideri com a “carregat” (tot i que realment només cal que traspassi; el gest és opcional). La seva funció és coronar el castell sense dubtar-ho, fer l’aleta i baixar tot seguit el més ràpid possible, sense moure el castell.<br>L’enxaneta (normalment hi ha més nenes que fan ocupen aquesta posició) és un infant d’entre 5 i 8 anys, de complexitat petita (per una mica més gran que l’acotxadora, per poder-li passar per sobre), molt àgil i molt valenta. Un cop tothom col·locat, el castell depèn d’ella.",
+    "wikipedia":"https://ca.wikipedia.org/wiki/3_de_7",
+    "size":30,
+    "image":"2--13.4_Castelloscopi_Subjectiu_Laieta_3d7_V_Catalana_(11-IX-14)_dfnt-MPEG-2_5.0_Mbps_2-pass.m2v.png",
+    "video":"tronc_12.mp4",
+    "youtube":"https://www.youtube.com/embed/7hdhVngGTZc",
+    "position":{
+      "rotation_y":"1.83333",
+      "rotation_x":"0",
+      "axis_x":"-11.00000187040957",
+      "axis_y":"250",
+      "axis_z":"19.05255780337606"
+    }
+  },
+  {
+    "id":"36",
+    "name":"Baix",
+    "info":"",
+    "size":40,
+    "image":"",
+    "video":"",
+    "youtube":"",
+    "position":{
+      "rotation_y":"1.33333",
+      "rotation_x":"0",
+      "axis_x":"-25.98076064",
+      "axis_y":"25",
+      "axis_z":"-15.00000255"
+    }
+  },
+  {
+    "id":"37",
+    "name":"Contrafort",
+    "info":"",
+    "size":40,
+    "image":"",
+    "video":"",
+    "youtube":"",
+    "position":{
+      "rotation_y":"1.33333",
+      "rotation_x":"0",
+      "axis_x":"-46.65067982",
+      "axis_y":"25",
+      "axis_z":"-26.93375235"
+    }
+  },
+  {
+    "id":"38",
+    "name":"Crossa",
+    "info":"",
+    "size":40,
+    "image":"",
+    "video":"",
+    "youtube":"",
+    "position":{
+      "rotation_y":"0",
+      "rotation_x":"0",
+      "axis_x":"-60",
+      "axis_y":"25",
+      "axis_z":"0"
+    }
+  },
+  {
+    "id":"39",
+    "name":"Crossa",
+    "info":"",
+    "size":40,
+    "image":"",
+    "video":"",
+    "youtube":"",
+    "position":{
+      "rotation_y":"0.666667",
+      "rotation_x":"0",
+      "axis_x":"-30",
+      "axis_y":"25",
+      "axis_z":"-51.962"
+    }
+  },
+  {
+    "id":"40",
+    "name":"Primeres mans",
+    "info":"",
+    "size":40,
+    "image":"",
+    "video":"",
+    "youtube":"",
+    "position":{
+      "rotation_y":"1.33333",
+      "rotation_x":"0",
+      "axis_x":"-80.8013",
+      "axis_y":"25",
+      "axis_z":"-46.6506"
+    }
+  },
+  {
+    "id":"41",
+    "name":"Segones mans",
+    "info":"",
+    "size":40,
+    "image":"",
+    "video":"",
+    "youtube":"",
+    "position":{
+      "rotation_y":"1.33333",
+      "rotation_x":"0",
+      "axis_x":"-114.9519575",
+      "axis_y":"25",
+      "axis_z":"-66.36746919"
+    }
+  },
+  {
+    "id":"42",
+    "name":"Lateral",
+    "info":"",
+    "size":40,
+    "image":"",
+    "video":"",
+    "youtube":"",
+    "position":{
+      "rotation_y":"1.5",
+      "rotation_x":"0",
+      "axis_x":"-93.3013",
+      "axis_y":"25",
+      "axis_z":"-2.75142"
+    }
+  },
     {
-		"id":"43",
-		"name":"Lateral",
-		"info":"",
-		"size":40,
-		"image":"",
-		"video":"",
-		"youtube":"",
-		"position":{
-			"rotation_y":"1.16667",
-			"rotation_x":"0",
-			"axis_x":"-46.6506",
-			"axis_y":"25",
-			"axis_z":"-80.8013"
-		}
-	}
+    "id":"43",
+    "name":"Lateral",
+    "info":"",
+    "size":40,
+    "image":"",
+    "video":"",
+    "youtube":"",
+    "position":{
+      "rotation_y":"1.16667",
+      "rotation_x":"0",
+      "axis_x":"-46.6506",
+      "axis_y":"25",
+      "axis_z":"-80.8013"
+    }
+  }
 ]
 
+//This function changes the angle rotation and prints the information on the screen.
 function canviarangle(){
 	angle=Number(document.getElementById("Angle").value);
 	angle=angle/180;
@@ -733,5 +734,17 @@ function canviarangle(){
 		m[i].position.rotation_x=String(Math.cos(rotation)*angle);
    		m[i].position.rotation_z=String(Math.sin(rotation)*angle);
    	}
-	console.log(m);
+    escriure(m);
+}
+
+//This function prints the changed information on screen.
+function escriure(m){
+  var text;
+  text='';
+  for (i=0; i<m.length; i++){
+    text+='"id:"'+m[i].id+'<BR>';
+    text+='rotation_x'+m[i].position.rotation_x+'<BR>';
+    text+='rotation_z'+m[i].position.rotation_z+'<BR><BR>';
+  }
+  document.getElementById('escriure').innerHTML=text;
 }
