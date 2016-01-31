@@ -731,8 +731,8 @@ function canviarangle(){
 	for (i=0; i<m.length; i++){
 		rotation=m[i].position.rotation_y;
 		rotation=rotation*Math.PI;
-		m[i].position.rotation_x=String(Math.cos(rotation)*angle);
-   		m[i].position.rotation_z=String(Math.sin(rotation)*angle);
+		m[i].position.rotation_x=String(Math.sin(rotation)*angle);
+   		m[i].position.rotation_z=String(Math.cos(rotation)*angle);
    	}
     escriure(m);
 }
@@ -742,9 +742,9 @@ function escriure(m){
   var text;
   text='';
   for (i=0; i<m.length; i++){
-    text+='"id:"'+m[i].id+'<BR>';
-    text+='rotation_x'+m[i].position.rotation_x+'<BR>';
-    text+='rotation_z'+m[i].position.rotation_z+'<BR><BR>';
+    text+='<BR>"id:"'+m[i].id+'<BR><BR>';
+    text+='"rotation_x":"'+m[i].position.rotation_x+'",<BR>';
+    text+='"rotation_z":"'+m[i].position.rotation_z+'",<BR>';
   }
   document.getElementById('escriure').innerHTML=text;
 }
